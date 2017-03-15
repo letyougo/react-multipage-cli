@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import '../common/common.css';
+
 class Index extends React.Component {
   render() {
     return (<div>
