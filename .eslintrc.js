@@ -27,9 +27,10 @@ module.exports = {
   ],
   // add your custom rules here
   'rules': {
-    "react/jsx-uses-react": "error",
-    "react/jsx-uses-vars": "error",
+    'react/jsx-uses-react': 'error',
+    'react/jsx-uses-vars': 'error',
     'semi': ['error', 'always'],
+    'no-class-assign': 0,
     'space-before-function-paren':0,
     // allow paren-less arrow functions
     'arrow-parens': 0,
