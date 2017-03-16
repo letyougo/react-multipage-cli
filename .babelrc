@@ -6,11 +6,7 @@
   ],
   "plugins": [
     ["transform-runtime"],
-    ["import",[{
-      "libraryName": "antd",
-      "libraryDirectory": "lib",
-      "style": true
-    }]]
+    ["import",{ "libraryName": "antd", "style": "css" }]
   ],
   "comments": false,
   "env": {

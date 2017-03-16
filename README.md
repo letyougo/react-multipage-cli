@@ -6,6 +6,8 @@ Simple Multiple-page CLI for scaffolding React.js projects
   html页面和js入口文件还需要自己手动到build目录下相应的配置文件里去配置一下。
   
 #### 基本构建命令
+  `npm install` 安装依赖模块，在运行其他命令前必须先运行此命令  
+
   `npm run dev` 开启测试环境，在测试环境下开发  
   
   `npm run build` 发布正式版本  

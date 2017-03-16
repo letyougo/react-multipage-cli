@@ -18,4 +18,5 @@ let entries = ((globalPath)=>{
 
 })(globalPath);
 
+
 module.exports = entries;
